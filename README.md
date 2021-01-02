@@ -8,7 +8,7 @@
 ---
 ## Termux installation
 ```
-1. git clone 
+1. git clone https://github.com/princekrvert/Arrow.git
 2. cd Arrow
 3. chmod +x *
 4. ./install.sh
